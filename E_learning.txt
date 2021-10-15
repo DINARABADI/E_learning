@@ -1,0 +1,31 @@
+PEMBUATAN APLIKASI E_LEARNING:
+TUJUAN APLIKASI:
+- untuk mempermudah kegiatan belajar dan mengajar di UNIVERSITAS TEKNOLOGI YOGYAKARTA
+- untuk memenuhi tugas mata kuliah Implementasi dan Pengujian Perangkat Lunak
+PERMASALAHAN YANG DI ATASI:
+- E-Learning yang merupakan sebuah aplikasi berbasis web dimana nantinya dapat menunjang proses pembelajaran dan penilaian dalam  perkuliahan di Universitas.
+RANCANGAN LINGKUNGAN IMPLEMENTASI:
+- sistem Operasi    : Windows 7, 8, 10
+- DBMS              : MySql
+- Development Tools : NetBeans
+- Bahasa Pemrograman: java
+DESKRIPSI KOMPONEN:
+- Registrasi User : Modul ini hanya bisa di lakukan oleh admin untuk mendaftarkan user baru
+- Delete User : Modul ini hanya bisa di lakukan oleh admin untuk menghapus user
+- Edit User : Modul ini hanya bisa di lakukan oleh admin untuk mengedit user
+- View User : Modul r ini hanya bisa di lakukan oleh admin untuk melihat use
+- Input Tugas : Modul ini hanya bisa di lakukan oleh dosen untuk memberikan tugas kepada mahasiswa
+- Edit Tugas : Modul ini hanya bisa di lakukan oleh dosen untuk mengedit tugas yang diberikan kepada mahasiswa
+- Hapus Tugas : Modul ini hanya bisa di lakukan oleh dosen untuk menghapus tugas yang diberikan kepada mahasiswa
+- Nilai Tugas : Modul ini hanya bisa di lakukan oleh dosen untuk memberikan nilai tugas kepada mahasiswa
+- Input Materi : Modul ini hanya bisa di lakukan oleh dosen untuk memberikan materi kepada mahasiswa
+- Edit Materi : Modul ini hanya bisa di lakukan oleh dosen untuk mengedit materi yang diberikan kepada mahasiswa
+- Hapus Materi : Modul ini hanya bisa di lakukan oleh dosen untuk menghapus materi yang diberikan kepada mahasiswa
+- Input Kuis : Modul ini hanya bisa di lakukan oleh dosen untuk memberikan kuis kepada mahasiswa
+- Edit Kuis : Modul ini hanya bisa di lakukan oleh dosen untuk mengedit kuis yang diberikan kepada mahasiswa
+- Delete Kuis : Modul ini hanya bisa di lakukan oleh dosen untuk menghapus kuis yang diberikan oleh mahasiswa
+- Nilai Kuis : Modul ini hanya bisa di lakukan oleh mahasiswa untuk mengunduh tugas
+- Download Tugas : Modul ini hanya bisa di lakukan oleh mahasiswa untuk mengunduh tugas
+- Kerjakan Kuis : Modul ini hanya bisa di lakukan oleh mahasiswa untuk mengerjakan kuis yang diberikan
+- Download Materi : Modul ini hanya bisa di lakukan oleh mahasiswa untuk mengunduh materi
+- Lihat Nilai : Modul ini hanya bisa di lakukan oleh mahasiswa dan dosen untuk melihat nilai
